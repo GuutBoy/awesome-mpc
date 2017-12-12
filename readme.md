@@ -41,7 +41,7 @@ Please feel free to do a pull request with any MPC software or resource you know
 
 ## Misc
 
-- [ePrint papers](http://users-cs.au.dk/psn/list/) - Auto-updated list of secure computation papers.
+- [ePrint papers](http://users-cs.au.dk/psn/list/) - Human-updated list of secure computation papers.
 
 ## Software
 
